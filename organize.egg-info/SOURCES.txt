@@ -1,0 +1,8 @@
+organize.py
+setup.py
+organize.egg-info/PKG-INFO
+organize.egg-info/SOURCES.txt
+organize.egg-info/dependency_links.txt
+organize.egg-info/entry_points.txt
+organize.egg-info/requires.txt
+organize.egg-info/top_level.txt
